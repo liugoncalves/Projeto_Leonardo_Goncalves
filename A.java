@@ -32,4 +32,12 @@ public class A {
         System.out.println("Método mA2 da classe A");
     }
 
+    public static void main(String[] args) {
+        A obj = new A(1, 1.0f);
+        obj.MA3();
+    }
+
+    public void MA3() {
+        System.out.println("Alteração a classe A partir do clone");
+    }
 }
