@@ -1,3 +1,4 @@
+// Classe B
 public class B {
 
     private int b1;
@@ -32,4 +33,7 @@ public class B {
         System.out.println("Método mB2 da classe B");
     }
 
+    public void mB3() {
+        System.out.println("Método mB3 da classe B");
+    }
 }
