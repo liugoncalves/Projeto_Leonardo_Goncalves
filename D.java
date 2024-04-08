@@ -25,14 +25,14 @@ public class D {
     }
 
     public void MD1() {
-        System.out.println("Método MD1- da classe D");
+        System.out.println("Método MD1 da classe D");
     }
 
     public void MD2() {
-        System.out.println("Método MD2- da classe D");
+        System.out.println("Método MD2 da classe D");
     }
 
     public void MD4() {
-        System.out.println("Método MD4- da classe D");
+        System.out.println("Método MD4 da classe D");
     }
 }
