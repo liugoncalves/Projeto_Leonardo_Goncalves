@@ -1,3 +1,4 @@
+// Classe C
 public class C {
 
     private String C1;
@@ -32,7 +33,7 @@ public class C {
         System.out.println("Método MC2 da classe C");
     }
 
-    public static void main(String[] args) {
-        // Você pode adicionar um método main aqui para testar a classe C
+    public void MC3() {
+        System.out.println("Método MC3 da classe C");
     }
 }
