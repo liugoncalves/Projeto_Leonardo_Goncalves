@@ -32,7 +32,13 @@ public class D {
         System.out.println("Método MD2 da classe D");
     }
 
+<<<<<<< HEAD
     public void MD3() {
         System.out.println("Método MD3 da classe D");
+=======
+     public void MD4() {
+        System.out.println("Método MD4 da classe D");
+>>>>>>> 935a7dc03fb14f75f0033baed2c7301055483c3c
     }
+   
 }
